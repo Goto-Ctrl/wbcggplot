@@ -1,0 +1,64 @@
+{
+  "release": "lab0",
+  "tag": "kickoff-2026-09-25",
+  "manifest_sha256": "6936fdd2ec23a6f76c354170689f5271189a3caf3590d219dca84af41584443a",
+  "instructor_commit": "18b4ed9b77de69f9f5031e75eef4641a0758e6f2",
+  "files": [
+    {
+      "path": "labs/common/schema.py",
+      "sha256": "279239f51f2843cd6d49be2cb5fde412e9a682d40303ba53aa641037b9da22ff"
+    },
+    {
+      "path": "labs/common/pcap.py",
+      "sha256": "67a6362dac7dd8c7b2883a0ee0362ed6e8b4b73b7d8374e3092260c09399c6ea"
+    },
+    {
+      "path": "labs/common/fixtures.py",
+      "sha256": "63ce67bebef95e5ecc7a64bf9da9bf973a4bf70b9a75f660ee1e951608a11165"
+    },
+    {
+      "path": "labs/data/canonical_smoke.pcap",
+      "sha256": "cf600d33737f03a9e0087eca8aab25205335ef4f10c99f850d4366dcf8073216"
+    },
+    {
+      "path": "labs/lab0_pcap/README.md",
+      "sha256": "292b884980fefebefece999379d00f47d7639bbd53db98ee63df2e429be12ad5"
+    },
+    {
+      "path": "labs/lab0_pcap/SPECIFICATION.md",
+      "sha256": "f50bd11ef020ce55f52733324ac66843b6ce0223085df001127755c296d0e090"
+    },
+    {
+      "path": "labs/lab0_pcap/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "labs/lab0_pcap/starter.py",
+      "sha256": "339c9d2af90b4fba683e2525db320856ca6a160f6240ed575e6d2a70f69dbc47"
+    },
+    {
+      "path": "labs/tools/kickoff_check.py",
+      "sha256": "d2062b12a0e542c5ef52719437b27ac74eb8396ed5d90240a426bbfefd7d400a"
+    },
+    {
+      "path": "labs/tools/make_fixture.py",
+      "sha256": "72fedf1c4f434f5f507eae989ff424bae2f3bd802d9d91cc6f61fa1feb57f2f7"
+    },
+    {
+      "path": "labs/tools/inspect_pcap.py",
+      "sha256": "5908eaf80b19729b9be5e2feebbd06de0037bdcc41b0577a7343d6ff22652576"
+    },
+    {
+      "path": "templates/reports/kickoff.md",
+      "sha256": "a4ce9a060242a478416c8470b459457bd1ef419c00c5330c2ff399c9cf722f76"
+    },
+    {
+      "path": "templates/reports/lab0_plan.md",
+      "sha256": "20e1fa87f0452cf5bd82b6d9c52da996f5399e5ec65fb7c79bd3243f1c0c5f25"
+    },
+    {
+      "path": "tests_public/test_pcap_infrastructure.py",
+      "sha256": "84a2ab7054dfc8f0c671434d3a44968a099073fbd75ad467e616bc3fced5e18b"
+    }
+  ]
+}
