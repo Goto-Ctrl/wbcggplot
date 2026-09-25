@@ -66,7 +66,8 @@ Useful commands include:
 ```bash
 python -m labs.tools.inspect_pcap
 python -m pytest -q tests_public
----
+```bash
+
 
 Do not stop at "the test passed."
 
