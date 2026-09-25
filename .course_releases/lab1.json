@@ -1,0 +1,32 @@
+{
+  "release": "lab1",
+  "tag": "lab1-release",
+  "manifest_sha256": "abbb99ea957307b3c5fea34177c5ad4390946cf3f2cba64c8d1b6c81adf17f91",
+  "instructor_commit": "48f7b635a8f8c8508f2692c298ffbb075d1e3c2c",
+  "files": [
+    {
+      "path": "labs/lab1_flow_session/README.md",
+      "sha256": "421a76ed21d0abdd4511e13edf67f2828ef31497ff8ecdc5b77af10ef73eeaad"
+    },
+    {
+      "path": "labs/lab1_flow_session/SPECIFICATION.md",
+      "sha256": "5376bbf488d75ad1c81e054cdf1146f8832b7747aab7d5a77069cf4658aa0a9c"
+    },
+    {
+      "path": "labs/lab1_flow_session/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "labs/lab1_flow_session/starter.py",
+      "sha256": "8bd80ff31392dcc8252c0c9bc0ec91c9078fdcab18c27376b10e67e8ab0ad2f8"
+    },
+    {
+      "path": "tests_public/test_lab1_contract.py",
+      "sha256": "54030e8ac239bc6c1928a9abe87c8fa7ad7afa89112e0e380de9a7c995457ef9"
+    },
+    {
+      "path": "templates/reports/lab1.md",
+      "sha256": "233caed76dc5bff078d4c5ae3f7601ccc40d535aed0b39c7969bab366f6a211a"
+    }
+  ]
+}
